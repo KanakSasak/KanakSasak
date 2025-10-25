@@ -4,7 +4,15 @@
 As a cybersecurity researcher, I specialize in **malware development**, **behavioral malware analysis**, **malware sandbox development**, **cryptographic security**, and **cyber threat analysis**.
 
 - ✍️ Writing at [kanaksasak.medium.com](https://kanaksasak.medium.com)
+
+  - [shellcode-analysis](https://infosecwriteups.com/shellcode-analysis-498b5e9f85ff)
+  - [maldev-evasion-shellcode-injection-and-fileless-execution](https://infosecwriteups.com/maldev-evasion-shellcode-injection-and-fileless-execution-b7fd5e120d50)
+    
 - ✍️ Writing at [blog.intellibron.io](https://blog.intellibron.io/)
+
+  - [static-analysis-of-akira-ransomware](https://blog.intellibron.io/static-analysis-of-akira-ransomware/)
+  - [from-noise-to-knowledge-turning-cyber-threat-data-into-actionable-insight-with-mcp-and-llm](https://blog.intellibron.io/from-noise-to-knowledge-turning-cyber-threat-data-into-actionable-insight-with-mcp-and-llm/)
+  - [ai-and-human-collaboration-redline-stealer-infection-analysis](https://blog.intellibron.io/ai-and-human-collaboration-redline-stealer-infection-analysis/)
 
 
 ---
@@ -89,7 +97,8 @@ Research implementation of searchable symmetric encryption algorithms in Go.
 ## 🔬 Community Sharing
 
 1. Malware Analysis 101 (2025) - Cybersecurity Community - [slide](https://www.canva.com/design/DAGzeS9DOSI/rXamCmBs2PlK_wW6fNVBiw/edit)
-2. Malware On Blockchain (2024) - [Lombok Dev Meetup](https://lombokdev.github.io/events/2024-09-15-lmd12) - [slide](https://www.canva.com/design/DAGQun_POAM/wMXs-DJfxE1y7crxxANzfw/edit)
+2. Shellcode Analysis (2025) - [24th Cyber Defense Community Meetup](https://cdef.id/24thcdefmeetup/) - [slide](https://docs.google.com/presentation/d/1_U6e9JoS2gZrTtzupIo1KtJeJDJPQ5M2lz_iYp-yxj4/edit?ref=blog.intellibron.io&slide=id.g32890189043_0_5#slide=id.g32890189043_0_5)
+3. Malware On Blockchain (2024) - [Lombok Dev Meetup](https://lombokdev.github.io/events/2024-09-15-lmd12) - [slide](https://www.canva.com/design/DAGQun_POAM/wMXs-DJfxE1y7crxxANzfw/edit)
   
 ---
 
