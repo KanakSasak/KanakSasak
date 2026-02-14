@@ -1,4 +1,5 @@
 
+```text
 > ./initiate_sequence
 > Target: Unknown
 > Status: Monitoring...
@@ -11,7 +12,7 @@
     + 0x04: Mathematical Proofs (Crypto)
 
 Proceed with caution.
-
+```
 - ✍️ Writing at [kanaksasak.medium.com](https://kanaksasak.medium.com)
 
   - [shellcode-analysis](https://infosecwriteups.com/shellcode-analysis-498b5e9f85ff)
@@ -19,7 +20,7 @@ Proceed with caution.
     
 - ✍️ Writing at [blog.intellibron.io](https://blog.intellibron.io/)
 
-  - Lua-JIT SmartLoader: Analyzing the GitHub Campaign Delivering Stealer](https://blog.intellibron.io/lua-jit-smartloader-analyzing-the-github-campaign-delivering-stealer/)
+  - [Lua-JIT SmartLoader: Analyzing the GitHub Campaign Delivering Stealer](https://blog.intellibron.io/lua-jit-smartloader-analyzing-the-github-campaign-delivering-stealer/)
   - [static-analysis-of-akira-ransomware](https://blog.intellibron.io/static-analysis-of-akira-ransomware/)
   - [from-noise-to-knowledge-turning-cyber-threat-data-into-actionable-insight-with-mcp-and-llm](https://blog.intellibron.io/from-noise-to-knowledge-turning-cyber-threat-data-into-actionable-insight-with-mcp-and-llm/)
   - [ai-and-human-collaboration-redline-stealer-infection-analysis](https://blog.intellibron.io/ai-and-human-collaboration-redline-stealer-infection-analysis/)
@@ -38,61 +39,6 @@ Proceed with caution.
 
 ---
 
-## 🧪 Featured Research Projects
-
-### 💀 [Golang Malware Development Research](https://github.com/KanakSasak/golang-maldev-research)
-**Understanding offensive techniques to improve defensive capabilities**
-
-Research into malware development techniques using Golang to enhance detection, analysis, and prevention strategies for security teams.
-
-**Research Focus**:
-- Modern malware development techniques in Go
-- Evasion methods and anti-analysis techniques
-- Process injection and memory manipulation
-- Command & control (C2) architectures
-- Detection bypass strategies
-
-**Defensive Value**:
-- Understand attacker methodologies to build better defenses
-- Develop detection signatures and behavioral rules
-- Train SOC analysts on emerging threats
-- Improve sandbox and EDR evasion detection
-- Enhance blue team capabilities
-
-**Professional Context**: Research conducted under security research capacity at PT ITSEC Asia to advance threat detection and defensive security.
-
-⚠️ **Important**: All research is for educational and defensive purposes only. Content designed to help security professionals understand and defend against threats.
-
----
-
-### 🛡️ [CupaX Sandbox](https://github.com/KanakSasak/cupax-sandbox)
-**Open-source malware analysis sandbox platform**
-
-Educational research malware sandbox for safe malware execution and behavioral analysis in isolated Windows environments.
-
-- **Architecture**: Go backend, Python agent, React/TypeScript frontend
-- **Features**: Behavioral analysis, Proxmox integration, ZIP extraction, API-driven workflow
-- **Target Users**: Security researchers, SOC teams, malware analysts
-- **Status**: Active development | 5-minute quick start
-
-🔧 **Tech Stack**: Go, Python, React, Proxmox, Docker
-
----
-
-### 🔗 [log4Go - Supply Chain Attack Simulation](https://github.com/KanakSasak/log4Go)
-**Educational research on Golang supply chain vulnerabilities**
-
-Deliberately crafted malicious package demonstrating supply chain attack vectors in the Go ecosystem.
-
-- **Purpose**: Security awareness and supply chain attack education
-- **Technique**: Typosquatting and dependency confusion simulation
-- **Impact**: Demonstrates how attackers weaponize legitimate-looking packages
-- **Defense**: Shows detection methodologies and secure dependency management
-
-⚠️ **Warning**: Educational research only - demonstrates attack techniques for defensive purposes
-
----
-
 ## 🔬 Research Publication
 
 1. [Searchable Symmetric Encryption ](https://doi.org/10.1109/CSP66295.2025.00009) 
@@ -107,6 +53,7 @@ Research implementation of searchable symmetric encryption algorithms in Go.
 
 ## 🔬 Community Sharing
 
+1. THREAT HUNTING: MALWARE ANALYSIS (Supply Chain Attack) (2025) - Merdeka Siber - [link](https://www.linkedin.com/posts/merdeka-siber-academy_webinar-malware-merdekasiber-activity-7402282725526691840-WxZI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8CucEB5vTr6coPSr1OZM_zAur4pLYeUqI)
 1. Malware Analysis 101 (2025) - Cybersecurity Community - [slide](https://www.canva.com/design/DAGzeS9DOSI/rXamCmBs2PlK_wW6fNVBiw/edit)
 2. Shellcode Analysis (2025) - [24th Cyber Defense Community Meetup](https://cdef.id/24thcdefmeetup/) - [slide](https://docs.google.com/presentation/d/1_U6e9JoS2gZrTtzupIo1KtJeJDJPQ5M2lz_iYp-yxj4/edit?ref=blog.intellibron.io&slide=id.g32890189043_0_5#slide=id.g32890189043_0_5)
 3. Malware On Blockchain (2024) - [Lombok Dev Meetup](https://lombokdev.github.io/events/2024-09-15-lmd12) - [slide](https://www.canva.com/design/DAGQun_POAM/wMXs-DJfxE1y7crxxANzfw/edit)
