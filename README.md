@@ -1,7 +1,16 @@
-# Hi there,👋
 
+> ./initiate_sequence
+> Target: Unknown
+> Status: Monitoring...
 
-As a cybersecurity researcher, I specialize in **malware development**, **behavioral malware analysis**, **malware sandbox development**, **cryptographic security**, and **cyber threat analysis**.
+[!] The content within operates on the edge of the kernel.
+[!] Focus:
+    + 0x01: Synthetic Execution (Dev)
+    + 0x02: Behavioral Heuristics (Analysis)
+    + 0x03: Isolation Chambers (Sandbox)
+    + 0x04: Mathematical Proofs (Crypto)
+
+Proceed with caution.
 
 - ✍️ Writing at [kanaksasak.medium.com](https://kanaksasak.medium.com)
 
@@ -10,9 +19,11 @@ As a cybersecurity researcher, I specialize in **malware development**, **behavi
     
 - ✍️ Writing at [blog.intellibron.io](https://blog.intellibron.io/)
 
+  - Lua-JIT SmartLoader: Analyzing the GitHub Campaign Delivering Stealer](https://blog.intellibron.io/lua-jit-smartloader-analyzing-the-github-campaign-delivering-stealer/)
   - [static-analysis-of-akira-ransomware](https://blog.intellibron.io/static-analysis-of-akira-ransomware/)
   - [from-noise-to-knowledge-turning-cyber-threat-data-into-actionable-insight-with-mcp-and-llm](https://blog.intellibron.io/from-noise-to-knowledge-turning-cyber-threat-data-into-actionable-insight-with-mcp-and-llm/)
   - [ai-and-human-collaboration-redline-stealer-infection-analysis](https://blog.intellibron.io/ai-and-human-collaboration-redline-stealer-infection-analysis/)
+  
 
 
 ---
