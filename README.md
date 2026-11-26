@@ -15,7 +15,8 @@ Proceed with caution.
 ```
 - [Git-Hook Campaign: Incident Analysis and Proactive Blockchain Hunting](https://kanaksasak.github.io/research/git-hook-campaign/)
 - ✍️ Writing at [kanaksasak.medium.com](https://kanaksasak.medium.com)
-
+  - [Two Mac Mini's, One AI Cluster: Preparing for a Bigger Wave of AI-Assisted Malware](https://infosecwriteups.com/two-mac-minis-one-ai-cluster-preparing-for-a-bigger-wave-of-ai-assisted-malware-0f3c9afc15d1)
+  - [Deep-Dive OT Security with Protocol Analysis and Digital Twin Simulation](https://kanaksasak.medium.com/deep-dive-ot-security-with-protocol-analysis-and-digital-twin-simulation-ac56cb8de55b?sk=636039e2acfa17f559f59c16dee07a6c)
   - [shellcode-analysis](https://infosecwriteups.com/shellcode-analysis-498b5e9f85ff)
   - [maldev-evasion-shellcode-injection-and-fileless-execution](https://infosecwriteups.com/maldev-evasion-shellcode-injection-and-fileless-execution-b7fd5e120d50)
     
