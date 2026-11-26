@@ -13,7 +13,7 @@
 
 Proceed with caution.
 ```
-- [Git-Hook Campaign: Incident Analysis and Proactive Blockchain Hunting](https://kanaksasak.github.io/research/git-hook-campaign/))
+- [Git-Hook Campaign: Incident Analysis and Proactive Blockchain Hunting](https://kanaksasak.github.io/research/git-hook-campaign/)
 - ✍️ Writing at [kanaksasak.medium.com](https://kanaksasak.medium.com)
 
   - [shellcode-analysis](https://infosecwriteups.com/shellcode-analysis-498b5e9f85ff)
@@ -56,7 +56,7 @@ Research implementation of searchable symmetric encryption algorithms in Go.
 1. PakMon-Intel - An autonomous watchtower for malicious packages on GitHub, npm, PyPI and RubyGems (2026) - [AI Showcase](https://cdefid.github.io/ai-showcase/) 
 2. Ransomware Prevention : ML for Real-Time Defense (2026) - [30th Cyber Defense Community Meetup](https://cdef.id/30thmeetup/) - [slide](https://canva.link/ofgkt5iw3d7wxob)
 3. Broń Vault: Open-Source Web-App for Stealer Log Parsing and Exploration (2026) - Blackhat Asia Arsenal - [link](https://blackhat.com/asia-26/arsenal/schedule/index.html#bro-vault-open-source-web-app-for-stealer-log-parsing-and-exploration-50424)
-4. 9th International Conference on Cryptography, Security and Privacy (Okinawa Japan) (2025) - [Link](https://docs.google.com/presentation/d/1FnTzuOtxEMIOiqSyCBGmJGbsECYhNGuLiH6Pt95t3a4/edit?usp=sharing)
+4. 9th International Conference on Cryptography, Security and Privacy (Okinawa Japan) (2025) - [Link](https://www.iccsp.org/2025.html) - [Slide](https://docs.google.com/presentation/d/1FnTzuOtxEMIOiqSyCBGmJGbsECYhNGuLiH6Pt95t3a4/edit?usp=sharing)
 5. THREAT HUNTING: MALWARE ANALYSIS (Supply Chain Attack) (2025) - Merdeka Siber - [link](https://www.linkedin.com/posts/merdeka-siber-academy_webinar-malware-merdekasiber-activity-7402282725526691840-WxZI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8CucEB5vTr6coPSr1OZM_zAur4pLYeUqI)
 6. Malware Analysis 101 (2025) - Cybersecurity Community - [slide](https://www.canva.com/design/DAGzeS9DOSI/rXamCmBs2PlK_wW6fNVBiw/edit)
 7. Shellcode Analysis (2025) - [24th Cyber Defense Community Meetup](https://cdef.id/24thcdefmeetup/) - [slide](https://docs.google.com/presentation/d/1_U6e9JoS2gZrTtzupIo1KtJeJDJPQ5M2lz_iYp-yxj4/edit?ref=blog.intellibron.io&slide=id.g32890189043_0_5#slide=id.g32890189043_0_5)
